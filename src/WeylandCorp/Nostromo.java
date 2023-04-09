@@ -10,4 +10,8 @@ public class Nostromo {
 	public void color() {
 		
 	}
+	
+	public void CarModel() {
+		System.out.println("CLK");
+	}
 }
